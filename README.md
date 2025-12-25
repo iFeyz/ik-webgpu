@@ -25,6 +25,8 @@ wasm-pack build --target web --out-dir docs/pkg
 Serve `docs/` folder.
 
 ## Demo
-https://github.com/iFeyz/ik-webgpu/raw/master/assets/demo.mp4
+
+![demo](assets/demo.gif)
+
 
 https://ifeyz.github.io/ik-webgpu/
