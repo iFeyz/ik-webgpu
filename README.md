@@ -19,7 +19,11 @@ cargo run --example animated_chain
 ## WASM
 
 ```
-wasm-pack build --target web --out-dir web/pkg
+wasm-pack build --target web --out-dir docs/pkg
 ```
 
-Serve `web/` folder.
+Serve `docs/` folder.
+
+## Demo
+
+https://ifeyz.github.io/ik-webgpu/
