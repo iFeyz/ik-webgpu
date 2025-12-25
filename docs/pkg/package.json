@@ -1,0 +1,20 @@
+{
+  "name": "ik-webgpu",
+  "type": "module",
+  "collaborators": [
+    "Your Name"
+  ],
+  "description": "FABRIK-based inverse kinematics library with WebGPU visualization",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "ik_webgpu_bg.wasm",
+    "ik_webgpu.js",
+    "ik_webgpu.d.ts"
+  ],
+  "main": "ik_webgpu.js",
+  "types": "ik_webgpu.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
